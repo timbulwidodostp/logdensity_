@@ -1,4 +1,10 @@
-D 'DEA': Data envelopment analysis
+D 'logdensity': Local Polynomial Estimates of the Log-Density Use logdensity With STATA 18
 D
-F dea.ado
-F dea.sthlp
+F integrate.ado
+F integrate.sthlp
+F integrate_aq.ado
+F integrate_aq.sthlp
+F lintegrate.mlib
+F logdensity.ado
+F logdensity.sthlp
+F mf_integrate.sthlp
