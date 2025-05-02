@@ -1,5 +1,7 @@
 # logdensity_
-Local Polynomial Estimates of the Log-Density Use logdensity With STATA 18
+Local Polynomial Estimates of the Log-Density Use logdensity With STATA 19
+
+https://www.youtube.com/watch?v=4GjB0I--iY8
 
 Olah Data Semarang
 
